@@ -2,10 +2,6 @@
 - 안녕하세요, EliceAI트랙 16팀 **명탐정 코더**의 서비스 **Country GOGO**입니다!🎉
 - **Country GOGO**는 설문을 통해 얻은 사용자의 성향을 바탕으로 국가별 행복지수 데이터를 분석하고,<br/>자신의 성향에 맞는 국가 및 도시를 추천하는 서비스입니다.
 
-## Deploy
-- 현재 Elice에서 배포 중입니다. 추후 재배포 예정입니다.
-- URL
-  - http://elice-kdt-ai-4th-team16.elicecoding.com/
 
 ## 프로젝트 구성 안내
 
@@ -46,6 +42,7 @@
     - 사용자에 맞춰 데이터셋을 필터링하고 알고 싶어하는 결과를 반환
 
 ### 3. 프로젝트 기능 설명
+
   - 주요 기능
     - 행복지수를 구성하는 요소들이 포함된 설문을 진행 후 사용자와 맞는 국가 및 도시를 알려주고 시각화된 결과를 확인
     - 시각화된 결과를 확인하기 전 별점 및 한줄평 작성 기능
@@ -55,7 +52,16 @@
     - 별점 및 한줄평을 통해 사용자의 평가를 즉각 수용, 메인페이지에 공개하여 팀원들의 책임감 증가
 
 ### 4. 프로젝트 구성도
-  - 와이어프레임/스토리보드 추가 예정
+  🌏 **메인 페이지** 
+  ![image](https://user-images.githubusercontent.com/89979344/178297874-11aa17a5-1543-401f-a6e4-f0f52072eccd.png)
+  🌏 **설문 조사 페이지**
+  ![설문조사](https://user-images.githubusercontent.com/89979344/178298250-a69365b5-f7d1-4f58-b2fb-388ea29710a6.gif)
+  🌏 **방명록 기능**
+  ![방명록기능-2차](https://user-images.githubusercontent.com/89979344/178299183-7b9f0c5b-35d0-443d-aa20-9e53c47db03f.gif)
+  🌏 **결과 페이지**
+   ![image](https://user-images.githubusercontent.com/89979344/178299907-9ec3c244-a3a3-4dca-89de-50f921d1d1ae.png)
+  🌏 **전체 국가 순위 페이지** 
+   ![국가순위](https://user-images.githubusercontent.com/89979344/178300420-55d0e5c9-1471-40ef-9482-cc9360d51928.gif)
 
 
 ### 5. 프로젝트 팀원 역할 분담
