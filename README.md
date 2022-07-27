@@ -6,7 +6,7 @@
 ## 프로젝트 구성 안내
 
 ### 0. 프로젝트 Notion
-  - https://www.notion.so/1d701a9be74b4cc2b00bb8152e647188
+  - https://six-operation-c1c.notion.site/1d701a9be74b4cc2b00bb8152e647188
 
 ### 1. 프로젝트 소개
   - 활용한 data set(Kaggle)
